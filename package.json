@@ -1,0 +1,14 @@
+{
+  "name": "turing-cineclube-backend",
+  "version": "1.0.0",
+  "description": "Servidor Node.js para inscrições do Turing Cineclube",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemailer": "^6.9.4",
+    "dotenv": "^16.0.3"
+  }
+}
